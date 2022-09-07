@@ -1,7 +1,7 @@
 # Dobriev Khalit Usupovich
 ## Contacts
 * E-mail: hdobriev0606@gmail.com
-* Discord: dobrivester#4146
+* Discord: dobrivester #4146
 * Location: Republic of Ingushetia, Nazran
 * Phone: +7(962)660-89-52
 # About me
