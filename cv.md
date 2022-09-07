@@ -17,7 +17,8 @@ for (i = 0; i < 10; i++) {
     console.log(word[i]);
 }
 ```
-# Experience 
+# Experience
+
 # Education
 * [JS](https://www.notion.so/)
 * [HTML/CSS](https://www.youtube.com/playlist?list=PLn5oTKbEreQBIjXAFKXriGPoMv79RrDJm)
